@@ -1,4 +1,4 @@
-function threeSum(arr, target) {
+//function threeSum(arr, target) {
 // write your code here
   function threeSum(arr, target) {
   // Sort the array in non-decreasing order
